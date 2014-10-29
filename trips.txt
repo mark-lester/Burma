@@ -1,0 +1,137 @@
+trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible
+1-UP,1-UP,everyday,Mandalay,Yangon to Mandalay,0,,,0
+2-DN,2-DN,everyday,Yangon,Mandalay to Yangon,0,,,0
+3-UP,3-UP,everyday,Mandalay,Yangon to Mandalay,0,,,0
+4-DN,4-DN,everyday,Yangon,Mandalay to Yangon,0,,,0
+5-UP,5-UP,everyday,Mandalay,Yangon to Mandalay,0,,,0
+6-DN,6-DN,everyday,Yangon,Mandalay to Yangon,0,,,0
+7-UP,7-UP,everyday,Pyinmana,Yangon to Pyinmana,0,,,0
+8-DN,8-DN,everyday,Yangon,Pyinmana to Yangon,0,,,0
+9-UP,9-UP,everyday,Pyinmana,Yangon to Pyinmana,0,,,0
+10-DN,10-DN,everyday,Yangon,Pyinmana to Yangon,0,,,0
+11-UP,11-UP,everyday,Mandalay,Yangon to Mandalay,0,,,0
+12-DN,12-DN,everyday,Yangon,Mandalay to Yangon,0,,,0
+13-UP,13-UP,everyday,Bago,Yangon to Bago,0,,,0
+14-DN,14-DN,everyday,Yangon,Bago to Yangon,0,,,0
+16-15,16-15,everyday,Mawlamyaing,Pyinmana to Mawlamyaing,0,,,0
+18-17,18-17,everyday,Pyinmana,Mawlamyaing to Pyinmana,0,,,0
+23-UP,23-UP,everyday,Myohaung,Thazi to Myohaung,0,,,0
+24-DN,24-DN,everyday,Thazi,Myohaung to Thazi,0,,,0
+25-UP,25-UP,everyday,Mandalay,Pyinmana to Mandalay,0,,,0
+26-DN,26-DN,everyday,Pyinmana,Mandalay to Pyinmana,0,,,0
+27-UP,27-UP,everyday,Myinchan,Pyinmana to Myinchan,0,,,0
+28-DN,28-DN,everyday,Pyinmana,Myinchan to Pyinmana,0,,,0
+29-UP,29-UP,everyday,Mandalay,Yangon to Mandalay,0,,,0
+30-DN,30-DN,everyday,Yangon,Mandalay to Yangon,0,,,0
+31-UP,31-UP,everyday,Pyinmana,Yangon to Pyinmana,0,,,0
+32-DN,32-DN,everyday,Yangon,Pyinmana to Yangon,0,,,0
+35-UP,35-UP,everyday,Mawlamyaing,Yangon to Mawlamyaing,0,,,0
+36-DN,36-DN,everyday,Yangon,Mawlamyaing to Yangon,0,,,0
+37-UP,37-UP,everyday,Myitkyina,Mandalay to Myitkyina,0,,,0
+38-DN,38-DN,everyday,Mandalay,Myitkyina to Mandalay,0,,,0
+39-UP,39-UP,everyday,Moe-nyin,Shwebo to Moe-nyin,0,,,0
+40-DN,40-DN,everyday,Shwebo,Moe-nyin to Shwebo,0,,,0
+41-UP,41-UP,everyday,Myitkyina,Mandalay to Myitkyina,0,,,0
+42-DN,42-DN,everyday,Mandalay,Myitkyina to Mandalay,0,,,0
+43-UP,43-UP,everyday,Myitkyina,Mandalay to Myitkyina,0,,,0
+44-DN,44-DN,everyday,Mandalay,Myitkyina to Mandalay,0,,,0
+45-UP,45-UP,everyday,Kawlin,Ywataung to Kawlin,0,,,0
+46-DN,46-DN,everyday,Ywataung,Kawlin to Ywataung,0,,,0
+47-UP,47-UP,everyday,Naba,Mandalay to Naba,0,,,0
+48-DN,48-DN,everyday,Mandalay,Naba to Mandalay,0,,,0
+49-UP,49-UP,everyday,Myitkyina,Naba to Myitkyina,0,,,0
+50-DN,50-DN,everyday,Naba,Myitkyina to Naba,0,,,0
+51-UP,51-UP,everyday,Kathar,Naba to Kathar,0,,,0
+54-DN,54-DN,everyday,Naba,Kathar to Naba,0,,,0
+55-UP,55-UP,everyday,Myitkyina,Mandalay to Myitkyina,0,,,0
+56-DN,56-DN,everyday,Mandalay,Myitkyina to Mandalay,0,,,0
+57-UP,57-UP,everyday,Myitkyina,Mandalay to Myitkyina,0,,,0
+58-DN,58-DN,everyday,Mandalay,Myitkyina to Mandalay,0,,,0
+59-UP,59-UP,everyday,Khin U,Chaung U to Khin U,0,,,0
+60-DN,60-DN,everyday,Chaung U,Khin U to Chaung U,0,,,0
+63-UP,63-UP,everyday,Pyay,Kemmidine to Pyay,0,,,0
+64-DN,64-DN,everyday,Kemmidine,Pyay to Kemmidine,0,,,0
+69-UP,69-UP,everyday,Tharrawaw,Kemmidine to Tharrawaw,0,,,0
+70-DN,70-DN,everyday,Kemmidine,Tharrawaw to Kemmidine,0,,,0
+71-UP,71-UP,everyday,Pyay,Yangon to Pyay,0,,,0
+72-DN,72-DN,everyday,Yangon,Pyay to Yangon,0,,,0
+85-UP,85-UP,everyday,Mawlamyaing,Bago to Mawlamyaing,0,,,0
+86-DN,86-DN,everyday,Bago,Mawlamyaing to Bago,0,,,0
+89-UP,89-UP,everyday,Mawlamyaing,Yangon to Mawlamyaing,0,,,0
+90-DN,90-DN,everyday,Yangon,Mawlamyaing to Yangon,0,,,0
+101-UP,101-UP,everyday,Kyauk,Pyinmana to Kyauk,0,,,0
+102-DN,102-DN,everyday,Pyinmana,Kyauk to Pyinmana,0,,,0
+103-UP,103-UP,everyday,Taungdwingyi,Pyinmana to Taungdwingyi,0,,,0
+104-DN,104-DN,everyday,Pyinmana,Taungdwingyi to Pyinmana,0,,,0
+105-UP,105-UP,everyday,Kye ni,Taungdwingyi to Kye ni,0,,,0
+106-DN,106-DN,everyday,Taungdwingyi,Kye ni to Taungdwingyi,0,,,0
+107-UP,107-UP,everyday,Bagan,Pyinmana to Bagan,0,,,0
+108-DN,108-DN,everyday,Pyinmana,Bagan to Pyinmana,0,,,0
+109-UP,109-UP,everyday,Pyay,Pyinmana to Pyay,0,,,0
+110-DN,110-DN,everyday,Pyinmana,Pyay to Pyinmana,0,,,0
+111-UP,111-UP,everyday,Myingyan,Thazi to Myingyan,0,,,0
+112-DN,112-DN,everyday,Thazi,Myingyan to Thazi,0,,,0
+117-UP,117-UP,everyday,Mandalay,Bagan to Mandalay,0,,,0
+118-DN,118-DN,everyday,Bagan,Mandalay to Bagan,0,,,0
+119-UP,119-UP,everyday,Mandalay,Bagan to Mandalay,0,,,0
+120-DN,120-DN,everyday,Bagan,Mandalay to Bagan,0,,,0
+121-UP,121-UP,everyday,Pakokku,Chaung U to Pakokku,0,,,0
+122-DN,122-DN,everyday,Chaung U,Pakokku to Chaung U,0,,,0
+125-UP,125-UP,everyday,Monywa,Chaung Oo to Monywa,0,,,0
+126-DN,126-DN,everyday,Chaung Oo,Monywa to Chaung Oo,0,,,0
+129-UP,129-UP,everyday,Gantgaw,Pakokku to Gantgaw,0,,,0
+130-DN,130-DN,everyday,Pakokku,Gantgaw to Pakokku,0,,,0
+131-UP,131-UP,everyday,Lashio,Mandalay to Lashio,0,,,0
+132-DN,132-DN,everyday,Mandalay,Lashio to Mandalay,0,,,0
+135-UP,135-UP,everyday,Pakokku,Mandalay to Pakokku,0,,,0
+136-DN,136-DN,everyday,Mandalay,Pakokku to Mandalay,0,,,0
+139-UP,139-UP,everyday,Kalay,Gant gaw to Kalay,0,,,0
+140-DN,140-DN,everyday,Gant gaw,Kalay to Gant gaw,0,,,0
+141-UP,141-UP,everyday,Shwe Nyaung,Thazi to Shwe Nyaung,0,,,0
+142-DN,142-DN,everyday,Thazi,Shwe Nyaung to Thazi,0,,,0
+143-UP,143-UP,everyday,Yak Sawk,Thazi to Yak Sawk,0,,,0
+144-DN,144-DN,everyday,Thazi,Yak Sawk to Thazi,0,,,0
+147-UP,147-UP,everyday,Loikaw,Thazi to Loikaw,0,,,0
+148-DN,148-DN,everyday,Thazi,Loikaw to Thazi,0,,,0
+149-UP,149-UP,everyday,Pinlaung,Aungban to Pinlaung,0,,,0
+150-DN,150-DN,everyday,Aungban,Pinlaung to Aungban,0,,,0
+151-UP,151-UP,everyday,Namsam,Moene to Namsam,0,,,0
+152-DN,152-DN,everyday,Moene,Namsam to Moene,0,,,0
+153-UP,153-UP,everyday,Htiye,Taunggyi to Htiye,0,,,0
+154-DN,154-DN,everyday,Taunggyi,Htiye to Taunggyi,0,,,0
+155-UP,155-UP,everyday,Namsam,Taunggyi to Namsam,0,,,0
+156-DN,156-DN,everyday,Taunggyi,Namsam to Taunggyi,0,,,0
+171-UP,171-UP,everyday,Ye,Mawlamying to Ye,0,,,0
+172-DN,172-DN,everyday,Mawlamying,Ye to Mawlamying,0,,,0
+173-UP,173-UP,everyday,Ye,Mawlamying to Ye,0,,,0
+174-DN,174-DN,everyday,Mawlamying,Ye to Mawlamying,0,,,0
+175-UP,175-UP,everyday,Tavoy,Yangon to Tavoy,0,,,0
+176-DN,176-DN,everyday,Yangon,Tavoy to Yangon,0,,,0
+181-UP,181-UP,everyday,Kyan kyin,Pathein to Kyan kyin,0,,,0
+182-DN,182-DN,everyday,Pathein,Kyan kyin to Pathein,0,,,0
+183-UP,183-UP,everyday,Okshitpin,Hinthada to Okshitpin,0,,,0
+184-DN,184-DN,everyday,Hinthada,Okshitpin to Hinthada,0,,,0
+185-UP,185-UP,everyday,Kyan kyin,Pathein to Kyan kyin,0,,,0
+186-DN,186-DN,everyday,Pathein,Kyan kyin to Pathein,0,,,0
+187-UP,187-UP,everyday,Hinthada,Pathein to Hinthada,0,,,0
+188-DN,188-DN,everyday,Pathein,Hinthada to Pathein,0,,,0
+189-UP,189-UP,everyday,Kyan kyin,Hinthada to Kyan kyin,0,,,0
+190-DN,190-DN,everyday,Hinthada,Kyan kyin to Hinthada,0,,,0
+191-UP,191-UP,everyday,Taungdwingyi,Magway to Taungdwingyi,0,,,0
+192-DN,192-DN,everyday,Magway,Taungdwingyi to Magway,0,,,0
+195-UP,195-UP,everyday,Tharrwaw,Letpadan to Tharrwaw,0,,,0
+196-DN,196-DN,everyday,Letpadan,Tharrawaw to Letpadan,0,,,0
+197-UP,197-UP,everyday,Tharrwaw,Letpadan to Tharrwaw,0,,,0
+198-DN,198-DN,everyday,Letpadan,Tharrwaw to Letpadan,0,,,0
+903-UP,903-UP,everyday,Thazi,Taungoo to Thazi,0,,,0
+904-DN,904-DN,everyday,Taungoo,Thazi to Taungoo,0,,,0
+907-UP,907-UP,everyday,Taungoo,Thingankyun to Taungoo,0,,,0
+908-DN,908-DN,everyday,Thingankyun,Taungoo to Thingankyun,0,,,0
+913-UP,913-UP,everyday,Myohaung,MaHuakone to Myohaung,0,,,0
+914-DN,914-DN,everyday,MaHuakone,Myohaung to MaHuakone,0,,,0
+Ma-41,Ma-41,everyday,Mattayar,Mandalay to Mattayar,0,,,0
+Ma-42,Ma-42,everyday,Thayezay,Mattayar to Thayezay,0,,,0
+Ma-43,Ma-43,everyday,Mattayar,Thayezay to Mattayar,0,,,0
+Ma-44,Ma-44,everyday,Thayezay,Mattayar to Thayezay,0,,,0
+Ma-45,Ma-45,everyday,Mattayar,Thayezay to Mattayar,0,,,0
+Ma-46,Ma-46,everyday,Mandalay,Mattayar to Mandalay,0,,,0
