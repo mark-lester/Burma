@@ -1,0 +1,1 @@
+osm_node_id,stops_hibernate_id
